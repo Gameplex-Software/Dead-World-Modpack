@@ -1,0 +1,14 @@
+{
+  "mod_lavacow:mod_lavacow/root": {
+    "criteria": {
+      "tick": "2021-09-12 08:57:35 -0400"
+    },
+    "done": true
+  },
+  "immersiveengineering:main/root": {
+    "criteria": {
+      "hold_manual": "2021-09-12 08:57:35 -0400"
+    },
+    "done": true
+  }
+}
